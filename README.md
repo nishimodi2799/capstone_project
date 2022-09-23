@@ -1,2 +1,4 @@
-# capstone_project
+# Detecting landcover change
 Capstone Project
+
+-updated
