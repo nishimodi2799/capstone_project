@@ -7,6 +7,8 @@ function runTaskList(){
     })
 }
 
+runTaskList();
+
 function confirmAll() {
     // var ok = document.getElementsByClassName('goog-buttonset-default goog-buttonset-action');
     // for (var i = 0; i < ok.length; i++)
@@ -18,5 +20,4 @@ function confirmAll() {
     })
 }
 
-runTaskList();
 confirmAll();
